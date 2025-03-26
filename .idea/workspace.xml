@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb365161-c9b3-47e1-9878-2003defb3fa9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnakeGameV2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/SnakeGameApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/model/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/model/GameElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/model/HighScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/model/SnakeBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/model/SnakeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/model/SnakeHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/view/GameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/view/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/view/HighScorePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/view/MenuPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snakegame/view/PlayerNameDialog.java" afterDir="false" />
-    </list>
+    <list default="true" id="fb365161-c9b3-47e1-9878-2003defb3fa9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
