@@ -1,4 +1,4 @@
-package snakegame.model;
+package model;
 
 /**
  * Represents the head of the snake.

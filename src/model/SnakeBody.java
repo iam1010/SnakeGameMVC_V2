@@ -1,4 +1,4 @@
-package snakegame.model;
+package model;
 
 /**
  * Represents a body segment of the snake.

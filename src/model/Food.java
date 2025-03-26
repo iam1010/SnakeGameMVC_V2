@@ -1,4 +1,4 @@
-package snakegame.model;
+package model;
 
 /**
  * Represents a food item that the snake can eat.

@@ -1,11 +1,11 @@
-package snakegame.view;
+package view;
 
 import javax.swing.*;
 import java.awt.*;
 import java.util.List;
-import snakegame.model.Food;
-import snakegame.model.SnakeBody;
-import snakegame.model.SnakeHead;
+import model.Food;
+import model.SnakeBody;
+import model.SnakeHead;
 
 /**
  * Panel for rendering the actual game.

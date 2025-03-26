@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb365161-c9b3-47e1-9878-2003defb3fa9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/SnakeGameApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeGameApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/model/GameElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/GameElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/model/HighScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/HighScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/model/SnakeBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/SnakeBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/model/SnakeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/SnakeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/model/SnakeHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/SnakeHead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/view/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/view/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/view/HighScorePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/HighScorePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/view/MenuPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MenuPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakegame/view/PlayerNameDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/PlayerNameDialog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +57,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\SnakeGameV2" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="SnakeGameApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snakegame.SnakeGameApp" />
+      <option name="MAIN_CLASS_NAME" value="SnakeGameApp" />
       <module name="SnakeGameV2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="snakegame.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

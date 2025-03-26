@@ -1,7 +1,5 @@
-package snakegame;
-
-import snakegame.controller.GameController;
-import snakegame.view.GameFrame;
+import controller.GameController;
+import view.GameFrame;
 
 /**
  * Main class that launches the Snake Game application

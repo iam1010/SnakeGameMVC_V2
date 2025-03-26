@@ -1,4 +1,4 @@
-package snakegame.controller;
+package controller;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
@@ -6,10 +6,10 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-import snakegame.model.SnakeGame;
-import snakegame.model.SnakeGame.Direction;
-import snakegame.view.GameFrame;
-import snakegame.view.PlayerNameDialog;
+import model.SnakeGame;
+import model.SnakeGame.Direction;
+import view.GameFrame;
+import view.PlayerNameDialog;
 
 /**
  * Main controller for the Snake Game.

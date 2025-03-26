@@ -1,10 +1,10 @@
-package snakegame.view;
+package view;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;
 import java.util.List;
-import snakegame.model.HighScore;
+import model.HighScore;
 
 /**
  * Panel for displaying high scores.

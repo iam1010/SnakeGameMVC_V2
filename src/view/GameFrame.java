@@ -1,10 +1,9 @@
-package snakegame.view;
+package view;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionListener;
-import java.awt.event.KeyListener;
-import snakegame.controller.GameController;
+
+import controller.GameController;
 
 /**
  * Main frame for the Snake Game.

@@ -1,4 +1,4 @@
-package snakegame.model;
+package model;
 
 /**
  * Abstract base class for game elements.
