@@ -87,8 +87,7 @@ You can modify the following constants in the source code to customize gameplay:
 ## Future Improvements
 
 Known issues:
-- Food can spawn on the edge of the map making it less visible
-- 
+- Can't choose not to enter player name when entering highscore although there is an X on the window
 
 Potential enhancements for future versions:
 - Multiple difficulty levels
