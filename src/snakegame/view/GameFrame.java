@@ -14,8 +14,8 @@ public class GameFrame extends JFrame {
     private static final long serialVersionUID = 1L;
 
     // Constants
-    private static final int DEFAULT_WIDTH = 600;
-    private static final int DEFAULT_HEIGHT = 600;
+    private static final int DEFAULT_WIDTH = 615;
+    private static final int DEFAULT_HEIGHT = 540;
 
     // Panels
     private MenuPanel menuPanel;

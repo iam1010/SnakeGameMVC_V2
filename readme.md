@@ -86,6 +86,10 @@ You can modify the following constants in the source code to customize gameplay:
 
 ## Future Improvements
 
+Known issues:
+- Food can spawn on the edge of the map making it less visible
+- 
+
 Potential enhancements for future versions:
 - Multiple difficulty levels
 - Power-ups and obstacles
